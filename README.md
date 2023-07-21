@@ -55,7 +55,7 @@ Facebook Lite Plus is an android application which provides you a good interface
 Click the download button to download latest release app.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/BINOD-XD/Facebook-Lite-Plus/releases/download/V1.1/Facebook-lite-plus-by-rxs.apk)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/BINOD-XD/Facebook-Lite-Plus/releases/download/V1.2/Facebook-lite-plus-by-rxs.apk)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 
